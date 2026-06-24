@@ -24,7 +24,7 @@ Yerel ağda çalışan, Twitter benzeri sosyal medya uygulaması.
 
 
 # Projeyi klonla
-git clone https://github.com/kullanici_adin/tvvitter.git
+git clone https://github.com/Tusubasa1014/tvvitter.git
 cd tvvitter
 
 # Flask kur
