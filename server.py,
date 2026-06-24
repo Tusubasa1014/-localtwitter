@@ -90,9 +90,6 @@ SAHTE_TWEET_GECMIS_SAAT = 6        # Sahte tweetler en fazla kaç saat öncesine
 sahte_kullanicilar = [
     "TeknoReis", "SporSever", "FilmTutkunu", "MüzikAşığı", "KitapKurdu",
     "GezginRuh", "YemekSever", "KodCanavarı", "Fotoğrafçı", "OyunDünyası",
-    "SahadakiGözlemci", "CepheHattı", "StratejiAnalist", "İstihbaratUzmanı", 
-    "SavaşMuhabiri", "İrtibatSubayı", "HavaKuvvetleri", "DenizKurdu",
-    "SiberGüvenlik", "AskeriUzman"
 ]
 
 sahte_icerikler = [
@@ -106,21 +103,6 @@ sahte_icerikler = [
     "Müzik ruhun gıdasıdır, bugün çok dinledim 🎵",
     "Doğada yürüyüş gibisi yok, hafta sonu deneyin 🌲",
     "Teknoloji çok hızlı ilerliyor, yetişemiyoruz",
-    "Bugün neler oluyor? #Alpagu gündemde",
-    "Bölgede hareketlilik var, gelişmeleri takip edin",
-    "Stratejik değerlendirme: Durum şu an stabil görünüyor",
-    "Yeni ekipmanlar test aşamasında, sonuçlar olumlu",
-    "Hava durumu raporu: Yarın yağış bekleniyor",
-    "Tatbikat başarıyla tamamlandı, tebrikler",
-    "Sınır hattında durum sakin, rutin devriye devam ediyor",
-    "Yeni teknoloji harikası bir cihaz denedim",
-    "Eğitim programı güncellendi, katılım zorunlu",
-    "Akşam yemeğinde harika bir tarif denedim",
-    "Bu haftanın en iyi oyunu kesinlikle bu",
-    "Yolda gördüğüm manzara inanılmazdı",
-    "Toplantı iptal oldu, boş vaktim var",
-    "Yeni şarkıyı dinlediniz mi? Süper olmuş",
-    "Hava karardı, eve dönme zamanı"
 ]
 
 def rastgele_zaman():
